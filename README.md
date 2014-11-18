@@ -1,4 +1,4 @@
 cprojects
 =========
 
-Samples of my work in Intro to C.
+Samples of my work in Programming in C
